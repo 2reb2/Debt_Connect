@@ -1,5 +1,4 @@
 # Debt Connect
-
 This is a web based application that helps people with debt to openly discuss their concern, make connections and to have a safe place to find a consultant to talk to.
 
 Before downloading the files, make sure your computer has already installed VS Code, Node.js, React, and create-react-app.
